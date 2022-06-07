@@ -1,7 +1,1 @@
-# Shopping-tongji
-同济大学数据库课程设计项目: 二手商品交易平台
-## 开发环境
-数据库：Oracle<br>
-前端:Vue.js  后端:.net core<br>
-服务器端:云服务器+nginx <br>   
-项目映射域名 www.28jy10gtt.cn
+# Shopping-tongji同济大学数据库课程设计项目: 二手商品交易平台## 开发环境* 数据库：Oracle<br>* 前端:Vue.js  后端:.net core<br>* 服务器端:云服务器+nginx * 项目映射域名 www.28jy10gtt.cn （域名被封了，拿服务器地址访问）* 服务器地址： 124.222.1.19:5000 (浏览器直接访问）
