@@ -5,4 +5,19 @@
     <RootNamespace>Shopping_tongji</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="src\1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="src\1.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.61" />
+  </ItemGroup>
+
 </Project>
